@@ -12,7 +12,7 @@ import com.example.restwithspringboot.mapper.DozerMapper;
 import com.example.restwithspringboot.model.Person;
 import com.example.restwithspringboot.unittests.mapper.mocks.MockPerson;
 
-public class DozerConverterTest {
+public class ModelMapperConverterTest {
     
     MockPerson inputObject;
 
